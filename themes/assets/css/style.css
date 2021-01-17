@@ -1,0 +1,4004 @@
+.su-custom-fonts {
+    font-family: inherit !important;
+    font-color: inherit !important;
+}
+
+.su-custom-font a {
+    font-family: inherit !important;
+    font-color: inherit !important;
+}
+
+h2 {
+    font-size: 1.1em;
+}
+
+.sys-hotel-booking-order .summary-payment p {
+    font-size: 18px !important;
+    margin: 1px !important;
+}
+
+.su-main-content-side-container section .container {
+    width: 100%;
+    position: relative;
+}
+
+.su-main-content-side-container .section {
+    background: none !important;
+}
+
+.su-main-content-box {
+    border-bottom: dotted 1px #eee;
+}
+
+.border-top {
+    border-top: 1px #ccc solid;
+}
+
+.border-right {
+    border-right: 1px #ccc solid;
+}
+
+.border-bottom {
+    border-bottom: 1px #ccc solid;
+}
+
+.border-left {
+    border-left: 1px #ccc solid;
+}
+
+.social-share ul li {
+    color: #b163a5;
+}
+
+.social-share ul li:hover {
+    color: #cccccc;
+}
+
+;
+.social-share ul li a .fa {
+    fdisplay: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.social-share ul li a .fa-facebook {
+    content: "\f09a";
+}
+
+.social-share ul li a .fa-twitter {
+    content: "\f099";
+}
+
+.social-share ul li a .fa-envelope {
+    content: "\f0e0";
+}
+
+.social-share ul li a .fa-pinterest {
+    content: "\f0d2";
+}
+
+.social-share ul li a .fa-google-plus {
+    content: "\f0d5";
+}
+
+span.facebook {
+    color: #3a5795;
+}
+
+span.twitter {
+    color: #1da1f2;
+}
+
+span.pinterest {
+    color: #e63d44;
+}
+
+span.google-plus {
+    color: #d95332;
+}
+
+span.line-chat {
+    color: #00c300;
+}
+
+.sys-article .top .page-header {
+    display: none;
+}
+
+.sys-article .body .detail {
+    border-top: 1px RGBA(230, 226, 234, 0.3) solid;
+    border-bottom: 1px RGBA(230, 226, 234, 0.3) solid;
+}
+
+.sys-article .body .mdate {}
+
+.sys-article .body .viewed {}
+
+.sys-articles .body .lists .lists-item .border {}
+
+.sys-articles .body .lists .lists-item .border:hover {
+    box-shadow: 0px 0px 5px 0px #ddd;
+}
+
+.sys-articles .body .lists .lists-item .body-image img {
+    max-height: 300px;
+}
+
+.sys-articles .body .lists .lists-item .viewed {
+    text-align: right;
+}
+
+.sys-articles .body .lists.column-3 .lists-item .viewed {}
+
+.sys-articles .body .lists.column-4 .lists-item .viewed {}
+
+.sys-articles .body .lists.column-3 .lists-item .readmore {}
+
+.sys-articles .body .lists.column-4 .lists-item .readmore {}
+
+.sys-clip .top .page-header {
+    display: none;
+}
+
+.sys-clip .body .detail {
+    border-top: 1px RGBA(230, 226, 234, 0.3) solid;
+    border-bottom: 1px RGBA(230, 226, 234, 0.3) solid;
+}
+
+.sys-clip .body .mdate {
+    text-align: right;
+}
+
+.sys-clip .body .viewed {
+    text-align: right;
+}
+
+.sys-clips .body .lists .lists-item .border {}
+
+.sys-clips .body .lists .lists-item .border:hover {}
+
+.sys-clips .body .lists .lists-item .body-image img {
+    border: 1px solid #c0c0c0;
+}
+
+.sys-clips .body .lists .lists-item .viewed {
+    text-align: right;
+}
+
+.sys-clips .body .lists.column-3 .lists-item .viewed {
+    text-align: left;
+}
+
+.sys-clips .body .lists.column-4 .lists-item .viewed {
+    text-align: left;
+}
+
+.sys-clips .body .lists.column-3 .lists-item .readmore {
+    text-align: center;
+}
+
+.sys-clips .body .lists.column-4 .lists-item .readmore {
+    text-align: center;
+}
+
+.sys-clip.widget .image {
+    text-align: center;
+}
+
+.sys-clip.widget .title {
+    text-align: center;
+}
+
+.sys-clip.widget .category {
+    display: none;
+}
+
+.sys-clip.widget .mdate {
+    display: none;
+}
+
+.sys-clip.widget .viewed {
+    display: none;
+}
+
+.sys-clip.widget .tags {
+    display: none;
+}
+
+.sys-clip.widget .social-share {
+    display: none;
+}
+
+.sys-comments .body .comments-form form {
+    border-bottom: 1px solid #ccc;
+}
+
+.sys-comments .body .comments-list li .main-comment-auth div.mdate {
+    font-style: italic;
+}
+
+.sys-comments .body .comments-list li .main-comment-info {
+    border-bottom: 1px #CCC dashed;
+}
+
+.sys-comments .body .comments-list li .main-comment-info div.share {
+    display: none;
+}
+
+.sys-comments .body .comments-list li .main-comment-info div.report {
+    display: none;
+}
+
+.sys-comments .body .comments-list li .sub-comments li .sub-comment-auth div.mdate {
+    font-style: italic;
+}
+
+.sys-comments .body .comments-list li .sub-comments li .sub-comment-info {
+    border-bottom: 1px #CCC dashed;
+}
+
+.sys-comments .body .comments-list li .sub-comments li .sub-comment-info {
+    border: 1px doted #ccc;
+}
+
+.sys-comments .body .comments-list li .sub-comments li .sub-comment-info div.share {
+    display: none;
+}
+
+.sys-comments .body .comments-list li .sub-comments li .sub-comment-info div.report {
+    display: none;
+}
+
+.sys-downloads .body .lists .lists-item .border {}
+
+.sys-downloads .body .lists .lists-item .border:hover {}
+
+.sys-product .top {
+    display: none;
+}
+
+.sys-product h2 {
+    color: #666b6f;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+/*.sys-product h2:hover, h2:active{color:#a229ca;}*/
+
+.sys-product .body .body-images .main-image {
+    border-radius: 0px;
+    border-color: #cacaca;
+}
+
+.sys-product .body .body-images .main-image .body-main-image {
+    text-align: center;
+}
+
+.sys-product .body .thumbnails .next,
+.sys-product .body .thumbnails .prev {}
+
+.sys-product .body .body-thumbnails .thumb2 .thumbnail img {
+    border: 1px solid #cacaca;
+}
+
+.sys-product .body .body-thumbnails .thumb3 .thumbnail img {
+    border: 1px solid #cacaca;
+}
+
+.sys-product .body .body-thumbnails .thumb4 .thumbnail img {
+    border: 1px solid #cacaca;
+}
+
+.sys-product .body .body-thumbnails .thumb5 .thumbnail img {
+    border: 1px solid #cacaca;
+}
+
+.sys-product .body .product-detail .top-border {
+    border-top: #ccc 1px dotted
+}
+
+.sys-product .body .product-detail .bottom-border {
+    border-bottom: #ccc 1px dotted;
+    padding-top: 5px
+}
+
+;
+.sys-product .body .product-detail .code {
+    font-weight: bold;
+}
+
+.sys-product .body .product-detail .stock-status {
+    text-align: right;
+}
+
+.sys-product .body .product-detail .stock-status.disable {
+    text-decoration: line-through;
+}
+
+.sys-product .body .product-detail .description {
+    border-top: #ccc 1px dotted;
+    border-bottom: #ccc 1px dotted;
+}
+
+.sys-product .body .product-detail .price {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.sys-product .body .product-detail .price.disable {
+    text-decoration: line-through;
+}
+
+.sys-product .body .product-detail .discount {
+    font-weight: bold;
+}
+
+.sys-product .body .product-detail .discount .disable {
+    text-decoration: line-through;
+    color: red;
+}
+
+.sys-product .body .product-detail .discount .show-text-discount {}
+
+.sys-product .body .product-detail .member-price {
+    font-weight: bold;
+}
+
+.sys-product .body .product-detail .member-price.disable {
+    text-decoration: line-through;
+}
+
+.sys-product .body .product-detail .member-price.show-for-not-member {}
+
+.sys-product .body .product-detail .member-discount {
+    font-weight: bold;
+}
+
+.sys-product .body .product-detail .member-discount.show-for-not-member {
+    display: none;
+}
+
+.sys-product .body .product-detail .color .select-product-color li {
+    border: 1px #C7C7C7 solid;
+    border-radius: 2px 2px 2px 2px;
+}
+
+.sys-product .body .product-detail .color .select-product-color li i.fa {
+    display: none;
+}
+
+.sys-product .body .product-detail .color .select-product-color li.active i.fa {
+    display: block;
+    position: relative;
+}
+
+.sys-product .body .product-detail .color .select-product-color li i.fas {
+    display: none;
+}
+
+.sys-product .body .product-detail .color .select-product-color li.active i.fas {
+    display: block;
+    position: relative;
+}
+
+.sys-product .body .product-detail .color .select-product-color li .sys-product .body .product-detail .viewed {
+    text-align: right;
+}
+
+.sys-product .body .detail-text {}
+
+div.fotorama__thumb-border {
+    z-index: 9999;
+    border-color: #c9ccca !important;
+}
+
+img.fotorama__img {
+    max-width: 100% !important;
+    max-height: 100% !important;
+}
+
+.sys-products {}
+
+.sys-products .body {}
+
+.sys-products .body .row {}
+
+.sys-products .body .lists {}
+
+.sys-products .product-quantity-box input {
+    text-align: center;
+}
+
+.sys-products .body .lists .border-item {
+    box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.5);
+}
+
+.sys-products .body .lists .border-item:hover {}
+
+.sys-products .body .lists-item {
+    text-align: center;
+}
+
+.sys-products .body .lists .lists-item .border {
+    border: 1px solid #cacaca;
+    text-align: left;
+}
+
+.sys-products .body .lists .lists-item .top {
+    vertical-align: top;
+}
+
+.sys-products .body .lists .lists-item .body-image {
+    text-align: center
+}
+
+.sys-products .body .lists .lists-item .stroke {
+    border-bottom: 2px #fd638f solid;
+}
+
+.sys-products .show-price.disable {
+    text-decoration: line-through;
+    color: red;
+}
+
+.sys-products .body .lists .lists-item .price {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.sys-products .body .lists .lists-item .show-price.disable {
+    text-decoration: line-through;
+    color: red;
+}
+
+.sys-products .body .lists .lists-item .discount {
+    font-weight: bold;
+}
+
+.sys-products .body .lists .lists-item .discount .disable {
+    text-decoration: line-through;
+    color: red;
+}
+
+.sys-products .body .lists .lists-item .member-price {
+    font-weight: bold;
+}
+
+.sys-products .body .lists .lists-item .member-discount {
+    font-weight: bold;
+}
+
+.sys-products .body .lists .lists-item .member-discount.disable {
+    display: none;
+}
+
+.sys-products .body .lists .lists-item .color {}
+
+.sys-products .body .lists .lists-item .color .select-product-color li {
+    float: left;
+    display: block;
+    border: 1px #C7C7C7 solid;
+    border-radius: 2px 2px 2px 2px;
+    cursor: pointer;
+}
+
+.sys-products .body .lists .lists-item .addtocart {}
+
+.sys-products .body .lists .lists-item .footer {
+    width: 100%;
+}
+
+.sys-products .body .lists .lists-item .column-left {
+    text-align: left;
+}
+
+.sys-products .body .lists .lists-item .border-right {
+    border-right: 1px solid #cacaca;
+    padding: 10px;
+}
+
+.sys-products .body .lists .lists-item .top-border {
+    border-top: #ccc 1px dotted
+}
+
+.sys-products .body .lists .lists-item .bottom-border {
+    border-bottom: #ccc 1px dotted;
+}
+
+.sys-products .body .lists .lists-item .left-border {
+    border-left: #ccc 1px solid;
+}
+
+.sys-products .border-thumbnail {
+    position: relative;
+    border: 1px solid #fff;
+    cursor: auto;
+}
+
+.sys-products .border-thumbnail>img,
+.sys-products .border-thumbnail a>img {}
+
+.sys-products .border-thumbnail:hover,
+.sys-products .border-thumbnail:focus,
+.sys-products .border-thumbnail.active {
+    border: 1px solid #cacaca;
+    border-radius: 0px;
+    border-color: #cacaca;
+}
+
+.sys-products .body .lists.column-1 .lists-item .stroke {
+    display: none;
+}
+
+.sys-products .body .lists.column-1 .lists-item .category,
+.sys-products .body .lists.column-1 .lists-item .category a {
+    color: #666666;
+}
+
+.sys-products .body .lists.column-2 .border-item {
+    text-align: left;
+}
+
+.sys-products .body .lists.column-2 .lists-item .addtocart {
+    text-align: center;
+    border-top: 1px #ccc dotted;
+    border-bottom: 1px #ccc dotted;
+    margin-top: 10px;
+}
+
+.sys-products .body .lists.column-3 .border-item {
+    text-align: left;
+}
+
+.sys-products .body .lists.column-3 .lists-item .description {
+    text-align: center;
+}
+
+.sys-products .body .lists.column-3 .lists-item .category {
+    display: none;
+}
+
+.sys-products .body .lists.column-3 .lists-item .price {
+    text-align: center;
+}
+
+.sys-products .body .lists.column-3 .lists-item .discount {
+    text-align: center;
+}
+
+.sys-products .body .lists.column-3 .lists-item .member-price {
+    text-align: center;
+}
+
+.sys-products .body .lists.column-3 .lists-item .member-discount {
+    text-align: center;
+}
+
+.sys-products .body .lists.column-3 .lists-item .addtocart {
+    text-align: center;
+    border-top: 1px #ccc dotted;
+    border-bottom: 1px #ccc dotted;
+}
+
+.sys-products .body .lists.column-4 .border-item {
+    margin: 10px 0px;
+    text-align: left;
+}
+
+.sys-products .body .lists.column-4 .lists-item .category {
+    display: none;
+}
+
+.sys-products .body .lists.column-4 .lists-item .description {
+    display: none;
+}
+
+.sys-products .body .lists.column-4 .lists-item .category {
+    display: none;
+}
+
+.sys-products .body .lists.column-4 .lists-item .price {
+    text-align: center;
+}
+
+.sys-products .body .lists.column-4 .lists-item .discount {
+    text-align: center;
+}
+
+.sys-products .body .lists.column-4 .lists-item .member-price {
+    text-align: center;
+}
+
+.sys-products .body .lists.column-4 .lists-item .member-discount {
+    text-align: center;
+}
+
+.sys-products .body .lists.column-4 .lists-item .addtocart {
+    border-top: 1px #ccc dotted;
+    border-bottom: 1px #ccc dotted;
+}
+
+.sys-products .body .lists.column-4 .lists-item .discount.disable {
+    display: none;
+}
+
+.sys-products .body .lists.column-4 .lists-item .member-discount.disable {
+    display: none;
+}
+
+.sys-products .lists.column-2.show-default .lists-item .color,
+.sys-products .lists.column-2.show-default .lists-item .size,
+.sys-products .lists.column-2.show-default .lists-item .mdate,
+.sys-products .lists.column-2.show-default .lists-item .viewed {
+    display: none;
+}
+
+.sys-products .body .lists.column-2.show-default .lists-item .addtocart {
+    border: none;
+}
+
+.sys-products .lists.column-3.show-default .color,
+.sys-products .lists.column-3.show-default .size,
+.sys-products .lists.column-3.show-default .mdate,
+.sys-products .lists.column-3.show-default .viewed {
+    display: none;
+}
+
+.sys-products .body .lists.column-3.show-default .lists-item .addtocart {
+    border: none;
+}
+
+.sys-products .lists.column-4.show-default .color,
+.sys-products .lists.column-4.show-default .size,
+.sys-products .lists.column-4.show-default .mdate,
+.sys-products .lists.column-4.show-default .viewed {
+    display: none;
+}
+
+.sys-products .body .lists.column-4.show-default .lists-item .addtocart {
+    border: none;
+}
+
+.sys-products.product-related .lists.column-2.show-default .category,
+.sys-products.product-related .lists.column-2.show-default .description,
+.sys-products.product-related .lists.column-2.show-default .color,
+.sys-products.product-related .lists.column-2.show-default .size,
+.sys-products.product-related .lists.column-2.show-default .mdate,
+.sys-products.product-related .lists.column-2.show-default .viewed,
+.sys-products.product-related .lists.column-2.show-default .addtocart,
+.sys-products.product-related .lists.column-2.show-default .zoomimage {
+    display: none;
+}
+
+.sys-products.product-related .lists.column-3.show-default .category,
+.sys-products.product-related .lists.column-3.show-default .description,
+.sys-products.product-related .lists.column-3.show-default .color,
+.sys-products.product-related .lists.column-3.show-default .size,
+.sys-products.product-related .lists.column-3.show-default .mdate,
+.sys-products.product-related .lists.column-3.show-default .viewed,
+.sys-products.product-related .lists.column-3.show-default .addtocart,
+.sys-products.product-related .lists.column-3.show-default .zoomimage {
+    display: none;
+}
+
+.sys-products.product-related .lists.column-4.show-default .category,
+.sys-products.product-related .lists.column-4.show-default .description,
+.sys-products.product-related .lists.column-4.show-default .color,
+.sys-products.product-related .lists.column-4.show-default .size,
+.sys-products.product-related .lists.column-4.show-default .mdate,
+.sys-products.product-related .lists.column-4.show-default .viewed,
+.sys-products.product-related .lists.column-4.show-default .addtocart,
+.sys-products.product-related .lists.column-4.show-default .zoomimage {
+    display: none;
+}
+
+.sys-products.widget .lists.column-2.show-default .category,
+.sys-products.widget .lists.column-2.show-default .description,
+.sys-products.widget .lists.column-2.show-default .color,
+.sys-products.widget .lists.column-2.show-default .size,
+.sys-products.widget .lists.column-2.show-default .mdate,
+.sys-products.widget .lists.column-2.show-default .viewed,
+.sys-products.widget .lists.column-2.show-default .addtocart,
+.sys-products.widget .lists.column-2.show-default .zoomimage {
+    display: none;
+}
+
+.sys-products.widget .lists.column-3.show-default .category,
+.sys-products.widget .lists.column-3.show-default .description,
+.sys-products.widget .lists.column-3.show-default .color,
+.sys-products.widget .lists.column-3.show-default .size,
+.sys-products.widget .lists.column-3.show-default .mdate,
+.sys-products.widget .lists.column-3.show-default .viewed,
+.sys-products.widget .lists.column-3.show-default .addtocart,
+.sys-products.widget .lists.column-3.show-default .zoomimage {
+    display: none;
+}
+
+.sys-products.widget .lists.column-4.show-default .category,
+.sys-products.widget .lists.column-4.show-default .description,
+.sys-products.widget .lists.column-4.show-default .color,
+.sys-products.widget .lists.column-4.show-default .size,
+.sys-products.widget .lists.column-4.show-default .mdate,
+.sys-products.widget .lists.column-4.show-default .viewed,
+.sys-products.widget .lists.column-4.show-default .addtocart,
+.sys-products.widget .lists.column-4.show-default .zoomimage {
+    display: none;
+}
+
+.sys-pagination {
+    clear: both;
+    border-top: solid #f4f4f4 1px;
+}
+
+.sys-statistics .body {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.sh-btn {
+    text-align: center;
+}
+
+.wrappertop {
+    height: auto;
+    padding: 0px;
+    position: absolute;
+    z-index: 2999;
+    width: 100%;
+}
+
+.wrappertop .container {
+    text-align: center
+}
+
+.wrappertop .left {
+    text-align: left;
+}
+
+.wrappertop .right {
+    text-align: center;
+    float: right;
+    padding: 0;
+    margin: 0
+}
+
+.wrappertop .center {
+    text-align: center
+}
+
+.wrappertop .open>.dropdown-menu {
+    display: block;
+    padding: 10px;
+}
+
+.wrappertop .sys-cart.widget .dropdown-menu li {
+    min-width: 300px;
+}
+
+.wrappertop .sys-cart.widget .dropdown-menu .cart-total {
+    padding-left: 10px;
+}
+
+.wrappertop .sys-cart.widget .dropdown-menu .cart-product-list .product-detail img {
+    width: 28px;
+    height: 28px;
+}
+
+.wrappertop .sys-cart.widget .dropdown-menu .cart-product-list .product-price span {
+    line-height: 28px;
+}
+
+.wrappertop .sys-cart.widget .dropdown {
+    position: relative;
+    text-align: center;
+}
+
+.wrappertop .sys-cart.widget .dropdown:hover {}
+
+.wrappertop .sys-cart .btn {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px 10px 3px 10px;
+}
+
+.wrappertop .sys-cart .btn-cart-checkout {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px 10px 3px 10px;
+}
+
+.wrappertop .sys-cart .btn-cart-checkout:hover {
+    background: #a90000;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0px;
+    z-index: 4000;
+    display: none;
+    float: left;
+    padding: 5px;
+    margin: 2px 0px 0px;
+    text-align: left;
+    list-style: outside none none;
+    background-color: #FFF;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.176);
+}
+
+.wrappertop .sys-member .content {
+    text-align: center;
+    float: left;
+    padding: 0;
+    margin: 0
+}
+
+.wrappertop .sys-member .dropdown {
+    position: relative;
+    text-align: center;
+}
+
+.wrappertop .sys-member .dropdown:hover {}
+
+.wrappertop .sys-member .btn {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px 10px 3px 10px;
+}
+
+.wrappertop .sys-member .page-header {
+    padding-bottom: 9px;
+    margin: 0;
+    border-bottom: 1px solid #EEE;
+}
+
+.wrappertop .sys-member .btn-member-signin {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px 10px 3px 10px;
+}
+
+.wrappertop .sys-member .btn-member-signin:hover {}
+
+.wrappertop .sys-language {
+    font: 14px;
+    text-align: center;
+    float: left;
+    padding: 0;
+    margin: 0
+}
+
+.wrappertop .sys-language .dropdown {
+    position: relative;
+    text-align: center;
+}
+
+.language-dropdown {
+    padding: 0;
+    margin: 0
+}
+
+.wrappertop .sys-language .btn {
+    display: inline-block;
+    background-color: none;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px 10px 3px 10px;
+}
+
+.wrappertop .sys-language .btn:hover {}
+
+.wrappertop .sys-currency {
+    font: 14px;
+    text-align: center;
+    float: left;
+    padding: 0;
+    margin: 0
+}
+
+.wrappertop .sys-currency .dropdown {
+    position: relative;
+    text-align: center;
+}
+
+.wrappertop .sys-currency .btn {
+    display: inline-block;
+    background-color: none;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px 10px 3px 10px;
+}
+
+.wrappertop .sys-currency .btn:hover {}
+
+.wrappertop .sys-member {
+    text-align: center;
+    float: left;
+    padding: 0;
+    margin: 0
+}
+
+.wrappertop .sys-member .dropdown {
+    position: relative;
+    text-align: center;
+}
+
+.wrappertop .sys-member .btn {
+    display: inline-block;
+    background-color: none;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px 10px 3px 10px;
+}
+
+.wrappertop .sys-member .btn:hover {}
+
+.wrappertop .sys-cart {
+    text-align: center;
+    float: left;
+    padding: 0;
+    margin: 0
+}
+
+.wrappertop .sys-cart .dropdown {
+    position: relative;
+    text-align: center;
+}
+
+.wrappertop .sys-cart .btn {
+    display: inline-block;
+    background-color: none;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px 10px 3px 10px;
+}
+
+.wrappertop .sys-cart .btn:hover {}
+
+.wrappertop .divider {}
+
+.wrappertop .divider:first-child {}
+
+.wrappertop .divider:last-child {}
+
+.wrapperright {
+    display: block;
+    position: fixed;
+    top: 35%;
+    right: 0px;
+    text-align: right;
+    font: 14px;
+    z-index: 10;
+}
+
+.wrapperright .sys-cart.widget .dropdown-menu li {
+    min-width: 300px;
+}
+
+.wrapperright .sys-cart.widget .dropdown-menu .cart-total {
+    padding-left: 10px;
+}
+
+.wrapperright .sys-cart.widget .dropdown-menu .cart-product-list .product-detail img {
+    width: 28px;
+    height: 28px;
+}
+
+.wrapperright .sys-cart.widget .dropdown-menu .cart-product-list .product-price span {
+    line-height: 28px;
+}
+
+.wrapperright .sys-cart .open>.dropdown-menu {
+    display: block;
+    top: -2px;
+    left: -315px;
+    min-width: 300px;
+}
+
+.wrapperright .sys-cart .btn {
+    display: block;
+    color: #fff;
+    width: auto;
+    right: 0;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background: #3C3C3C;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+
+.wrapperright .sys-cart .btn-cart-checkout {
+    display: inline-block;
+    color: #fff;
+    padding: 6px 10px;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background: #d72a2a;
+    border: 1px solid transparent;
+    border-radius: 0px;
+    height: 40px;
+}
+
+.wrapperright .sys-cart .btn-cart-checkout:hover {
+    background: #a90000;
+}
+
+.wrapperright .sys-cart {
+    display: block;
+}
+
+.wrapperright .sys-cart a {
+    display: block;
+    margin-bottom: 2px;
+    position: relative;
+    left: 0px;
+    text-decoration: none;
+    transition: left 0.2s ease 0.2s;
+}
+
+.wrapperright .sys-cart a.sys-cart {
+    display: block;
+    width: 40px;
+    white-space: nowrap;
+    background-color: #3C3C3C;
+    color: #FFF;
+    padding: 96px 0px 15px;
+    font: 14px;
+    text-align: center;
+}
+
+.wrapperright .sys-cart a.sys-cart:hover {
+    background: #EB6435;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.wrapperright .sys-cart a.sys-cart {
+    display: block;
+    width: 40px;
+    height: 40px;
+    white-space: nowrap;
+    background-color: #3c3c3c;
+    color: #FFF;
+    padding: 9px 0;
+    font: 10px;
+    border-radius: 10px 0px 0px 0px;
+    text-align: center;
+}
+
+.wrapperright .sys-cart a.sys-cart:hover {
+    background: #eb6435;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.wrapperright .sys-member .open>.dropdown-menu {
+    display: block;
+    top: -2px;
+    left: -205px;
+    width: 200px;
+    padding: 10px;
+}
+
+.wrapperright .sys-member .btn {
+    display: block;
+    color: #fff;
+    width: auto;
+    right: 0;
+    margin-bottom: 0px;
+    font: 14px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background: #3C3C3C;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+
+.wrapperright .sys-member .btn-member-signin {
+    display: inline-block;
+    color: #fff;
+    padding: 6px 10px;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background: #d72a2a;
+    border: 1px solid transparent;
+    border-radius: 0px;
+    height: 40px;
+}
+
+.wrapperright .sys-member .btn-member-signin:hover {
+    background: #159400;
+}
+
+.wrapperright .sys-member .page-header {
+    padding-bottom: 9px;
+    margin: 0;
+    border-bottom: 1px solid #EEE;
+}
+
+.wrapperright .sys-member {
+    display: block;
+}
+
+.wrapperright .sys-member a {
+    display: block;
+    margin-bottom: 2px;
+    position: relative;
+    left: 0px;
+    text-decoration: none;
+    transition: left 0.2s ease 0.2s;
+}
+
+.wrapperright .sys-member a.sys-member {
+    display: block;
+    width: 40px;
+    height: 40px;
+    white-space: nowrap;
+    color: #FFF;
+    padding: 9px 0;
+    font: 10px;
+    text-align: center;
+}
+
+.wrapperright .sys-member a.sys-member:hover {
+    background: #a90000;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.wrapperright .sys-language .open>.dropdown-menu {
+    display: block;
+    top: -2px;
+    left: -165px;
+    width: 20px;
+    padding: 10px;
+}
+
+.wrapperright .sys-language .btn {
+    display: block;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    right: 0;
+    margin-bottom: 2px;
+    font: 10px;
+    padding: 9px 0;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background: #5f5e5e;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+
+.wrapperright .sys-language .btn:hover {
+    background: #464646;
+}
+
+.wrapperright .sys-language {
+    display: block;
+}
+
+.wrapperright .sys-language a {
+    display: block;
+    margin-bottom: 2px;
+    position: relative;
+    left: 0px;
+    text-decoration: none;
+    transition: left 0.2s ease 0.2s;
+}
+
+.wrapperright .sys-language a.sys-language {
+    display: block;
+    width: 40px;
+    height: 40px;
+    white-space: nowrap;
+    background-color: #d72a2a;
+    color: #FFF;
+    padding: 9px 0;
+    font: 10px;
+    text-align: center;
+}
+
+.wrapperright .sys-language a.sys-language:hover {
+    background: #a90000;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.wrapperright .sys-currency .open>.dropdown-menu {
+    display: block;
+    top: -2px;
+    left: -165px;
+    width: 20px;
+    padding: 10px;
+}
+
+.wrapperright .sys-currency .btn {
+    display: block;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    right: 0;
+    margin-bottom: 2px;
+    font: 10px;
+    padding: 9px 0;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background: #7b7b7b;
+    border: 1px solid transparent;
+    border-radius: 0px 0px 0px 10px;
+}
+
+.wrapperright .sys-currency .btn:hover {
+    background: #464646;
+}
+
+.wrapperright .sys-currency {
+    display: block;
+}
+
+.wrapperright .sys-currency a {
+    display: block;
+    margin-bottom: 2px;
+    position: relative;
+    left: 0px;
+    text-decoration: none;
+    transition: left 0.2s ease 0.2s;
+}
+
+.wrapperright .sys-currency a.sys-currency {
+    display: block;
+    width: 40px;
+    height: 40px;
+    white-space: nowrap;
+    background-color: #d72a2a;
+    color: #FFF;
+    padding: 9px 0;
+    font: 10px;
+    text-align: center;
+}
+
+.wrapperright .sys-currency a.sys-currency:hover {
+    background: #a90000;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.shoppingCartContainner {
+    display: none;
+    width: 100%;
+    position: relative;
+}
+
+.shoppingCartContainner .bg {
+    background: #505050;
+    position: relative;
+    color: #fff;
+    padding: 5px;
+    height: auto;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.shoppingCartContainner .right {
+    text-align: right;
+    float: right;
+}
+
+.shoppingCartContainner .btn-cart-checkout {
+    display: inline-block;
+    padding: 4px 10px;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background: #d72a2a;
+    border: 1px solid transparent;
+    border-radius: 0px;
+    height: 30px;
+}
+
+.shoppingCartContainner .btn-cart-checkout:hover {
+    background: #a90000;
+}
+
+.shoppingCartContainner .btn-cart {
+    display: inline-block;
+    padding: 4px 10px;
+    margin-bottom: 0px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -moz-user-select: none;
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 0px;
+    height: 30px;
+}
+
+.su-side-container .su-element-box {
+    box-shadow: 0px -0px 3px #ccc;
+    border-radius: 5px;
+    white-space: normal;
+    border: solid 1px #ddd;
+}
+
+.su-side-container h3,
+.su-side-container .h3 {
+    border-bottom: 1px dotted;
+    padding-bottom: 5px;
+}
+
+.su-side-container .su-element-box.widgets-twitter,
+.su-side-container .su-element-box.widgets-likebox {}
+
+.su-main-content-container {}
+
+.su-main-content-container img {
+    max-width: 100%;
+}
+
+.su-main-content-container .page-header {
+    margin-top: 0px;
+    border-bottom: 1px dotted #eee;
+}
+
+.sys-menus.vertical .nav-pills>li {
+    border-bottom-color: #ddd;
+}
+
+.sys-menus.vertical .nav-pills>li>a {
+    border-radius: 0;
+    border-bottom-color: transparent;
+}
+
+.sys-menus.vertical .nav>li>a:hover,
+.sys-menus.vertical .nav>li>a:focus {
+    text-decoration: none;
+    background-color: #f4f4f4;
+    border-bottom-color: transparent;
+}
+
+.sys-breadcrumb .breadcrumb {
+    background: transparent;
+    border-bottom-color: #ddd;
+    padding-bottom: 8px;
+    margin-top: 10px;
+}
+
+#shopping-cart-footerbar,
+.wrapperright {
+    z-index: 5000;
+}
+
+.confirm-order-button {
+    text-align: center;
+}
+
+.content.su-content-box .top {
+    display: none;
+}
+
+.content.su-content-box.sys-articles .top {
+    display: block;
+}
+
+.content.su-content-box .footer {
+    margin-top: 20px;
+}
+
+.sys-product .detail-text .text-detail-container {
+    border-top: none
+}
+
+.address-detail-box {
+    border-left: 1px dotted #ccc;
+}
+
+.products-color-box i {
+    font-size: 10px;
+}
+
+.NavVetical .list-group-item {
+    border-radius: 0px !important;
+}
+
+.list-group-submenu {}
+
+.list-group-submenu .level1 {}
+
+.list-group-submenu .level2 {
+    margin-left: 5px;
+}
+
+.list-group-submenu .level3 {
+    margin-left: 10px;
+}
+
+.list-group-submenu .level4 {
+    margin-left: 15px;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.cart_bank_logo {
+    display: block;
+    float: left;
+    margin-right: 10px;
+}
+
+.cart_bank_detail {
+    display: block;
+    float: left;
+}
+
+.show-amout-of,
+.show-amout-of span.real_amout {
+    display: block;
+}
+
+.show-amout-of span.discount {
+    color: #999;
+    font-size: 90%;
+    text-decoration: line-through;
+}
+
+.order_detail_item_amout {
+    display: block;
+}
+
+.order_detail_item_discount {
+    color: #999;
+    font-size: 90%;
+    text-decoration: line-through;
+}
+
+.content-frontpage-product {
+    background-color: #ffffff;
+}
+
+.widgets-logo .body {
+    min-height: 50px;
+}
+
+.section .title h3 {
+    border-bottom: 1px solid #f2f2f2;
+    padding-bottom: 10px;
+}
+
+.content-services-slider-container .carousel-control.left,
+.content-services-slider-container .carousel-control.right {
+    background: none !important;
+}
+
+.grid-big-left-item .title h4 {
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+
+.owl-carousel .addtocart {
+    border: none;
+}
+
+.sh_crl {
+    clear: both;
+}
+
+.sys-hotel-booking .widget-top-reservation {
+    padding-bottom: 100px;
+}
+
+@media (min-width:1200px) {}
+
+@media (min-width:992px) and (max-width:1199px) {}
+
+@media (max-width:991px) {
+    .sys-hotelbooking .sys-hotel-booking .widget-sidebar-page {
+        padding-bottom: 40px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .sys-hotelbooking .sys-hotel-booking .content-sidebar-page {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .shoppingCartContainner .btn-cart {
+        text-align: center;
+    }
+    .shoppingCartContainner {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .wrappertop .btn {
+        padding: 2px 2px 2px 2px !important;
+    }
+    .header-image-container .nav>li>a {
+        padding: 13px 15px !important;
+    }
+    .sh_crl {
+        clear: none;
+    }
+}
+
+@media (max-width:767px) {
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    .shoppingCartContainner .btn-cart {
+        text-align: center;
+    }
+    .shoppingCartContainner {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .wrappertop {
+        position: relative;
+    }
+    .wrappertop .btn {
+        padding: 2px 2px 2px 2px !important;
+    }
+}
+
+h1,
+.h1 {
+    font-size: 30px;
+}
+
+.widgets-statistics.sys-statistics h3 {
+    text-align: center;
+}
+
+.sys-hotel-booking .gallery img {
+    width: 100%;
+}
+
+.sys-hotel-booking .padding-b {
+    padding-bottom: 40px;
+}
+
+.sys-hotel-booking .padding-t {
+    padding-top: 20px;
+}
+
+.sys-hotel-booking .room-title {
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
+.sys-hotel-booking .room-content {
+    padding-top: 5px;
+}
+
+.sys-hotel-booking .nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.sys-hotel-booking .owl-item.active {
+    width: 268.33px;
+}
+
+.sys-hotel-booking .btn-book {
+    margin-top: -50px;
+    background-color: #ccc;
+    border-color: #ccc;
+}
+
+.sys-hotel-booking .column-one .pull-left {
+    margin-top: 10px;
+}
+
+.sys-hotel-booking .room-description h3 {
+    color: #101349;
+}
+
+.sys-hotel-booking .facility p {
+    margin-top: 10px;
+}
+
+.sys-hotel-booking #BookingInfo img {
+    width: 100%;
+}
+
+.sys-hotel-booking .facility>li>a {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.sys-hotel-booking .facility>li {
+    float: left;
+    list-style: none;
+}
+
+.sys-hotel-booking .facility>li+li {
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.sys-hotel-booking .column-one .facilityCategory {
+    padding-bottom: 15px;
+}
+
+.sys-hotel-booking .room_table span,
+.sys-hotel-booking .total_table span,
+.sys-hotel-booking .tax_table span,
+.sys-hotel-booking .checkin_table span,
+.sys-hotel-booking .checkout_table span {
+    font-weight: 600;
+    color: #313a45;
+}
+
+.sys-hotel-booking .room_table .table-center {
+    text-align: center;
+    color: #969696;
+    vertical-align: middle;
+    text-transform: uppercase;
+}
+
+.sys-hotel-booking .floatleft {
+    float: left;
+}
+
+.sys-hotel-booking .floatright {
+    float: right;
+}
+
+.sys-hotel-booking .test1 {
+    background-color: #ff6600;
+    height: 100px;
+}
+
+.sys-hotel-booking .test2 {
+    background-color: #a4a4a4;
+    height: 100px;
+}
+
+.sys-hotel-booking .test2 {
+    background-color: #ccc;
+    height: 100px;
+}
+
+.sys-hotel-booking .column-one .room-image img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.sys-hotel-booking .circle-active-tab {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: transparent;
+    box-shadow: 0 0 1px #ec971f;
+    margin: 0 auto;
+    line-height: 50px;
+    color: #ec971f;
+    margin-bottom: 20px;
+}
+
+.sys-hotel-booking .tabs-navigation li.active .circle-active-tab {
+    background-color: #ec971f;
+    color: #fff;
+}
+
+.sys-hotel-booking .sys-hotel-booking .btn-sml {
+    padding: 5px 10px;
+}
+
+.sys-hotel-booking .room-price {}
+
+.sys-hotel-booking .room-btn {}
+
+.sys-hotel-booking .reservation-form li {
+    list-style: none;
+}
+
+.sys-hotel-booking .column-one .room-badge {
+    margin-right: 15px;
+}
+
+.sys-hotel-booking .room.column-one {
+    margin-bottom: 40px;
+    padding: 0px;
+}
+
+.sys-hotel-booking .column-one .room-facility {
+    border-bottom: solid 1px #e1e1e1;
+    margin-bottom: 15px;
+}
+
+.sys-hotel-booking .Booking-info-facility {
+    padding-top: 40px;
+}
+
+.sys-hotel-booking .hotel-room {
+    padding-bottom: 40px;
+}
+
+.sys-hotel-booking .room {
+    margin-bottom: 100px;
+}
+
+.sys-hotel-booking .room-image {
+    border-radius: 4px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.sys-hotel-booking .room-image img {
+    border-radius: 4px;
+    width: 100%;
+    opacity: 1;
+    transition: all ease 0.3s;
+    cursor: pointer;
+}
+
+.sys-hotel-booking .room-image:hover img {
+    opacity: 0.7;
+}
+
+.sys-hotel-booking .room-image .room-title {
+    background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
+    bottom: 0px;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px 10px 20px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 0 0 4px 4px;
+    float: left;
+}
+
+.sys-hotel-booking .room-badge {
+    background: #e01a33 none repeat scroll 0 0;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.0833em;
+    margin: 0;
+    padding: 10px 0 0;
+    position: absolute;
+    right: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    top: 10px;
+    z-index: 1;
+}
+
+.sys-hotel-booking .room-details>p {
+    border-bottom: 1px solid #f5f5f5;
+    margin-bottom: 12px;
+    padding-bottom: 10px;
+}
+
+.sys-hotel-booking .res-center.reservation-form {}
+
+.sys-hotel-booking .reservation-form input,
+.reservation-form select {
+    color: #555;
+    display: block;
+    font-size: 15px;
+    line-height: 1.42857;
+    padding: 4.5px 10px;
+}
+
+.sys-hotel-booking .reservation-form input,
+.reservation-form select {
+    border: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #ddd;
+    width: 100%;
+}
+
+.sys-hotel-booking button.btn-org,
+input,
+select,
+textarea,
+a.btn-org {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.sys-hotel-booking .pull-left h4 {
+    margin-top: -1px;
+}
+
+.sys-hotel-booking .list-room {}
+
+.sys-hotel-booking .list-room .room-details .btn {}
+
+.sys-hotel-booking .column-one h3 {
+    margin: 0px;
+}
+
+.sys-hotel-booking .column-one p {
+    padding: 20px 0px;
+}
+
+.sys-hotel-booking .content-sidebar-page .room-detail .room-price h4 {
+    margin-top: 0px;
+}
+
+.sys-hotel-booking .widget-sidebar-page>div:nth-child(1) {
+    border-radius: 5px;
+    border: 1px solid #eee;
+    padding-bottom: 30px;
+}
+
+.sys-hotel-booking .product .product-image>a,
+.product .product-wishlist a {
+    -webkit-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+}
+
+.sys-hotel-booking .product .product-image>a,
+.product .product-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.sys-hotel-booking .col-sidebar {
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #eee;
+    padding: 30px 13px;
+    position: relative;
+    z-index: 198 !important;
+}
+
+.sys-hotel-booking .owl-theme.pagination-top .owl-dots {
+    margin-top: -4px;
+}
+
+.sys-hotel-booking .owl-theme.pagination-top .owl-controls {
+    position: absolute;
+    right: 13px;
+    top: 0px;
+    -webkit-transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease;
+    opacity: 0.9;
+}
+
+.sys-hotel-booking .owl-theme.pagination-top .owl-controls:hover {
+    opacity: 1;
+}
+
+.sys-hotel-booking .owl-theme .owl-dots {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.sys-hotel-booking .owl-theme .owl-dots .owl-dot {
+    height: 10px;
+    margin: 0 5px;
+    position: relative;
+    width: 10px;
+    display: inline-block;
+}
+
+.sys-hotel-booking .owl-theme .owl-dots .owl-dot span {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border-radius: 50%;
+    background-color: #eee;
+    text-indent: -999em;
+    cursor: pointer;
+    position: absolute;
+    overflow: hidden;
+    background-color: transparent;
+    box-shadow: inset 0 0 0 1px #bbb;
+    -webkit-transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease;
+}
+
+.sys-hotel-booking .owl-theme .owl-dots .owl-dot span:focus {
+    outline: none;
+}
+
+.sys-hotel-booking .owl-theme .owl-dots .owl-dot span::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    border-radius: 50%;
+    background-color: #aaa;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    -webkit-transition: -webkit-transform 0.3s ease;
+    transition: transform 0.3s ease;
+}
+
+.sys-hotel-booking .owl-theme .owl-dots .owl-dot span:hover,
+.sys-hotel-booking .owl-theme .owl-dots .owl-dot span:focus {
+    opacity: 0.7;
+}
+
+.sys-hotel-booking .owl-theme .owl-dots .owl-dot.active span::after {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+
+.sys-hotel-booking .owl-theme.pagination-top .owl-controls {
+    position: absolute;
+    right: 13px;
+    top: 13px;
+    -webkit-transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease;
+    opacity: 0.9;
+}
+
+.sys-hotel-booking .owl-theme.pagination-top .owl-controls:hover {
+    opacity: 1;
+}
+
+.sys-hotel-booking .owl-theme.pagination-top .owl-dots .owl-dot span {
+    box-shadow: inset 0 0 0 1px #fff;
+}
+
+.sys-hotel-booking .owl-theme.pagination-top .owl-dots .owl-dot span::after {
+    background-color: #fff;
+}
+
+.sys-hotel-booking .owl-controls .owl-nav {
+    opacity: 0;
+    -webkit-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out
+}
+
+.sys-hotel-booking .owl-carousel:hover .owl-controls .owl-nav {
+    opacity: 1
+}
+
+.sys-hotel-booking .owl-theme .owl-controls .owl-nav div {
+    padding: 5px 9px;
+}
+
+.sys-hotel-booking .owl-theme .owl-controls .owl-nav .owl-prev i,
+.sys-hotel-booking .owl-theme .owl-controls .owl-nav .owl-next i {
+    line-height: 66px;
+}
+
+.sys-hotel-booking .owl-theme .owl-controls .owl-nav div {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.sys-hotel-booking .owl-theme .owl-controls .owl-nav .owl-prev {
+    left: -18px;
+}
+
+.sys-hotel-booking .owl-theme .owl-controls .owl-nav .owl-next {
+    right: -18px;
+}
+
+.sys-hotel-booking .owl-carousel:hover .owl-controls .owl-nav .owl-prev {
+    left: 0px;
+}
+
+.sys-hotel-booking .owl-carousel:hover .owl-controls .owl-nav .owl-next {
+    right: 0px;
+}
+
+.sys-hotel-booking .owl-carousel .owl-controls .owl-nav .owl-next,
+.sys-hotel-booking .owl-carousel .owl-controls .owl-nav .owl-prev {
+    background: rgba(0, 0, 0, 0.4);
+    color: #fff;
+    font-size: 18px;
+    height: 75px;
+    position: absolute;
+    text-align: center;
+    -webkit-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+    width: 35px;
+    cursor: pointer;
+    cursor: hand;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.sys-hotel-booking .carousel-description-style .description {
+    margin-bottom: 30px;
+}
+
+.sys-hotel-booking .carousel-description-style .description h2 {
+    margin-top: 0;
+    padding-right: 74px;
+}
+
+.sys-hotel-booking .carousel-description-style .image-box-description h4 {
+    margin-bottom: 0;
+}
+
+.sys-hotel-booking .carousel-description-style .owl-controls .owl-nav {
+    opacity: 1;
+}
+
+.sys-hotel-booking .carousel-description-style .owl-theme .owl-controls .owl-nav .owl-next {
+    left: -65px;
+    top: 0;
+    border-radius: 0 2px 2px 0;
+}
+
+.sys-hotel-booking .carousel-description-style .owl-theme .owl-controls .owl-nav .owl-prev {
+    left: -100px;
+    top: 0;
+    border-radius: 2px 0 0 2px;
+}
+
+.sys-hotel-booking .carousel-description-style .owl-theme .owl-controls .owl-nav .owl-prev i,
+.sys-hotel-booking .carousel-description-style .owl-theme .owl-controls .owl-nav .owl-next i {
+    line-height: 1;
+}
+
+.sys-hotel-booking .carousel-description-style .owl-carousel .owl-controls .owl-nav .owl-next,
+.sys-hotel-booking .carousel-description-style .owl-carousel .owl-controls .owl-nav .owl-prev {
+    background: #00c0e9;
+    color: #fff;
+    font-size: 15px;
+    height: 36px;
+}
+
+.sys-hotel-booking .owl-carousel .owl-controls .owl-nav .owl-next:hover,
+.sys-hotel-booking .owl-carousel .owl-controls .owl-nav .owl-prev:hover {
+    opacity: 0.6;
+}
+
+.sys-hotel-booking .owl-stage .owl-item:last-child {
+    margin-right: 0 !important;
+}
+
+.sys-hotel-booking .carousel-demo .image-box-description {
+    margin-bottom: -10px;
+}
+
+.sys-hotel-booking .room-other .btn-book {
+    margin-top: -30px;
+}
+
+.sys-hotel-booking .room-other .room-description h3 {
+    margin-top: 10px;
+}
+
+.sys-hotel-booking .widget-side-reservation {
+    padding-top: 20px;
+}
+
+.sys-hotel-booking-order .room-title {
+    background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
+    bottom: 0px;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px 10px 20px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 0 0 4px 4px;
+    float: left;
+}
+
+.sys-hotel-booking-order ul li .circle-active-tab {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 0 0 1px #ec971f;
+    margin: 0 auto;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+
+.sys-hotel-booking-order ul li:not(.active) .circle-active-tab {
+    background: transparent;
+    color: inherit;
+}
+
+.sys-hotel-booking-order ul li:not(.active) .circle-active-tab:hover {
+    color: inherit;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation::after,
+.sys-hotel-booking-order ul.tabs-navigation::before {
+    content: ' ';
+    display: table;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation::after {
+    clear: both;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li {
+    position: relative;
+    display: block;
+    float: left;
+    margin: 0px 0px -1px;
+    width: 33.3%;
+    text-align: center;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li a {
+    position: relative;
+    margin-right: -1px;
+    padding: 9px 20px 11px;
+    display: block;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li a i:first-child {
+    margin-right: 8px;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li a i.tab-single-icon {
+    margin: 0px;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li a img {
+    max-width: none;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li a,
+.sys-hotel-booking-order ul.tabs-navigation li a:focus,
+.sys-hotel-booking-order ul.tabs-navigation li a:hover {
+    text-decoration: none;
+    outline: 0px;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li.active a {
+    z-index: 3;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li.active a::after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    right: -1px;
+    z-index: 1;
+    height: 3px;
+    transition: all 0.4s ease-in-out 0s;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li.active a:focus {
+    cursor: default;
+}
+
+.sys-hotel-booking-order .tabs-payment li {
+    width: 100%;
+}
+
+.sys-hotel-booking-order .tabs-content {
+    position: relative;
+    z-index: 2;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    overflow: hidden;
+}
+
+.sys-hotel-booking-order .tabs-content>.tab-pane {
+    display: none;
+}
+
+.sys-hotel-booking-order .tabs-content>.active {
+    display: block;
+}
+
+.tabs-vertical {
+    overflow: hidden;
+}
+
+.sys-hotel-booking-order .tabs-vertical .tabs-navigation {
+    float: left;
+    width: 240px;
+    margin-top: 0px;
+}
+
+.sys-hotel-booking-order .tabs-vertical ul.tabs-navigation li {
+    float: none;
+}
+
+.sys-hotel-booking-order .tabs-vertical ul.tabs-navigation li a {
+    padding: 12px 20px;
+    margin: 0px;
+}
+
+.sys-hotel-booking-order .tabs-vertical ul.tabs-navigation li.active a,
+.sys-hotel-booking-order .tabs-vertical ul.tabs-navigation li.active a:focus,
+.sys-hotel-booking-order .tabs-vertical ul.tabs-navigation li.active a:hover {
+    border-right-width: 1px;
+}
+
+.sys-hotel-booking-order .tabs-vertical ul.tabs-navigation li.active a::after {
+    top: -1px;
+    left: -1px;
+    right: auto;
+    bottom: -1px;
+    width: 3px;
+    height: auto;
+}
+
+.sys-hotel-booking-order .tabs-vertical .tabs-content {
+    left: -1px;
+    margin: 0px 0px 40px 239px;
+}
+
+.sys-hotel-booking-order .tabs-vertical.tabs-right .tabs-navigation {
+    float: right;
+}
+
+.sys-hotel-booking-order .tabs-vertical.tabs-right .tabs-navigation li {
+    float: none;
+}
+
+.sys-hotel-booking-order .tabs-vertical.tabs-right .tabs-content {
+    margin: 0px 239px 40px 0px;
+    right: 0px;
+    left: 0px;
+}
+
+.sys-hotel-booking-order .tabs-vertical.tabs-right ul.tabs-navigation li.active a::after {
+    left: auto;
+    right: -1px;
+}
+
+.sys-hotel-booking-order .tabs-vertical.tabs-right ul.tabs-navigation li a {
+    margin-left: -1px;
+    margin-right: auto;
+}
+
+.sys-hotel-booking-order .modern ul.tabs-navigation li:first-child {
+    margin-left: 30px;
+}
+
+.sys-hotel-booking-order .no-border ul.tabs-navigation li {
+    border: 0px;
+}
+
+.sys-hotel-booking-order .no-border .tabs-content {
+    border-width: 1px 0px 0px;
+}
+
+.sys-hotel-booking-order .simple ul.tabs-navigation li a {
+    background-color: transparent;
+    border-width: 0 0 2px;
+    margin-bottom: -1px;
+}
+
+.sys-hotel-booking-order .simple .tabs-content {
+    border-width: 2px 0 0;
+    padding: 20px 10px;
+}
+
+.sys-hotel-booking-order .clean ul.tabs-navigation li {
+    border: 0px;
+}
+
+.sys-hotel-booking-order .clean .tabs-content {
+    border: 0px;
+}
+
+.sys-hotel-booking-order .clean ul.tabs-navigation li.active a,
+.sys-hotel-booking-order .clean ul.tabs-navigation li.active a:focus,
+.sys-hotel-booking-order .clean ul.tabs-navigation li.active a:hover,
+.sys-hotel-booking-order .clean ul.tabs-navigation li a {
+    border-width: 0px;
+}
+
+.sys-hotel-booking-order .border ul.tabs-navigation li.active a::after {
+    background: rgb(0, 170, 179);
+}
+
+.sys-hotel-booking-order .radius ul.tabs-navigation li a {
+    border-radius: 8px 8px 0px 0px;
+}
+
+.sys-hotel-booking-order .radius ul.tabs-navigation li.active a {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.sys-hotel-booking-order .radius .tabs-content {
+    border-radius: 0px 8px 8px;
+}
+
+.sys-hotel-booking-order .justified ul.tabs-navigation {
+    width: 100%;
+    margin-bottom: -1px;
+}
+
+.sys-hotel-booking-order .justified ul.tabs-navigation li {
+    float: none;
+    display: table-cell;
+    width: 1%;
+    text-align: left;
+}
+
+.sys-hotel-booking-order .justified ul.tabs-navigation li:last-child a {
+    margin-right: 0px;
+}
+
+.sys-hotel-booking-order .tabs-right ul.tabs-navigation li {
+    float: right;
+}
+
+.sys-hotel-booking-order .tabs-bottom ul.tabs-navigation {
+    margin-top: -21px;
+}
+
+.sys-hotel-booking-order .tabs-bottom ul.tabs-navigation li.active a::after {
+    top: auto;
+    bottom: -1px;
+}
+
+.sys-hotel-booking-order .linetriangle ul.tabs-navigation li.active a,
+.sys-hotel-booking-order .linetriangle ul.tabs-navigation li.active a:focus,
+.sys-hotel-booking-order .linetriangle ul.tabs-navigation li.active a:hover,
+.sys-hotel-booking-order .linetriangle ul.tabs-navigation li a {
+    border-left-width: 0px;
+    border-bottom-width: 1px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    background: transparent;
+    background-color: transparent;
+}
+
+.sys-hotel-booking-order .linetriangle ul.tabs-navigation>li.active>a:after,
+.sys-hotel-booking-order .linetriangle ul.tabs-navigation>li.active>a:before {
+    border: medium outset transparent;
+    content: "";
+    height: 0;
+    left: 50%;
+    pointer-events: none;
+    position: absolute;
+    top: 100%;
+    width: 0;
+    z-index: 1;
+}
+
+.sys-hotel-booking-order .linetriangle ul.tabs-navigation>li.active>a:after {
+    border-top-color: #fafafa;
+    border-width: 10px;
+    margin-left: -10px;
+}
+
+.sys-hotel-booking-order .linetriangle ul.tabs-navigation>li.active>a:before {
+    border-top-color: rgba(0, 0, 0, 0.7);
+    border-width: 11px;
+    margin-left: -11px;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation {
+    margin-bottom: 0px;
+    padding-left: 0px;
+    border-bottom-width: 0px;
+    list-style: none;
+    padding-right: 0px;
+}
+
+.sys-hotel-booking-order .simple ul.tabs-navigation li a {
+    margin-bottom: -1px;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li.active a {
+    z-index: 3;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li a,
+.tabs-navigation li a:focus,
+.tabs-navigation li a:hover {
+    text-decoration: none;
+    outline: 0px;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation li a {
+    position: relative;
+    margin-right: -1px;
+    padding: 9px 20px 11px;
+    display: block;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+img.hotel-facility-icon {
+    width: 16px;
+}
+
+.sys-hotel-booking-order .booking-success .test .hr-hidden {
+    display: none;
+}
+
+.sys-hotel-booking-order .summary-payment h2 {
+    text-align: center;
+}
+
+.sys-hotel-booking-order .summary-payment {
+    border-radius: 5px;
+}
+
+@media(max-width:991px) {
+    .sys-hotel-booking .booking-info-title .border {
+        display: none;
+    }
+    .sys-hotel-booking .room.column-one {
+        padding-bottom: 80px;
+    }
+    .sys-hotel-booking .room-facility {
+        border: hidden;
+    }
+    .sys-hotel-booking .column-one .room-price h3 {
+        position: absolute;
+        top: 0px;
+        right: 20px;
+    }
+    .sys-hotel-booking .column-one .btn-booking {
+        display: none;
+    }
+    .sys-hotel-booking .circle-active-tab {
+        display: none;
+    }
+    .sys-hotel-booking .widget-side-reservation button {
+        margin: 0 auto;
+        padding-top: 10px;
+        margin-top: 15px;
+    }
+    .room-detail-page .content-left {
+        padding-top: 40px;
+    }
+    .room-detail-page .room-name>small {
+        position: absolute;
+        z-index: -1;
+        right: 0;
+        top: 27px;
+    }
+    .room-detail-page .content-left {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .room-detail-page .room-slideshow ul li {
+        width: 100%;
+    }
+    .room-detail-page .room-content .facility {
+        padding-left: 0px;
+    }
+    .room-detail-page .room-content .facilityCategory-list {
+        padding-right: 0px;
+    }
+    .sys-hotel-booking .room-title {
+        font-size: 1.4em;
+    }
+    .sys-hotel-booking-order .booking-info-description .hr-hidden {
+        display: block !important;
+    }
+    .sys-hotel-booking-order .booking-info-description {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .sys-hotel-booking-order .booking-info-description .table-responsive {
+        margin-top: 0px !important;
+        border: none !important;
+    }
+    .sys-hotel-booking-order .personal-info .content-right {
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: 20px;
+    }
+    .sys-hotel-booking-order .personal-info .content-right .only-m-t-20-res {
+        margin-top: 20px;
+    }
+    .sys-hotel-booking-order .payment-info .content-right .text-transfer {
+        margin-top: 0px;
+    }
+    .sys-hotel-booking-order .process-title {
+        display: block !important;
+        text-align: center;
+    }
+    .sys-hotel-booking-order .summary-room {
+        padding-top: 20px;
+    }
+    .sys-hotel-booking-order .test {
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .sys-hotel-booking-order .summary-user {
+        padding-bottom: 20px;
+    }
+    .sys-hotel-booking-order .summary-payment {
+        margin-top: 20px;
+        border-radius: 5px;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .sys-hotel-booking-order .summary-payment h2 {
+        text-align: center;
+    }
+    .sys-hotel-booking-order .hidden-text {
+        display: none;
+    }
+    .sys-hotel-booking-order .booking-success .test .hr-hidden {
+        display: block !important;
+    }
+}
+
+@media(max-width:767px) {}
+
+.sys-hotel-booking.room-detail-page .facility li {
+    padding-top: 5px 10px;
+}
+
+.sys-hotel-booking.room-detail-page .facilityCategory-title {
+    font-weight: 600;
+}
+
+.room-detail-page .widget-side-booking #available_room_container {
+    color: crimson;
+}
+
+.room-detail-page .widget-sidebar {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.room-detail-page .content-left h1 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+}
+
+.room-detail-page .content-left h1>small {
+    padding: 24px 20px 24px;
+    float: right;
+    border-top-left-radius: 60px;
+}
+
+.room-detail-page .room-content .facility {
+    padding-top: 15px;
+}
+
+.room-detail-page #image-gallery {
+    width: 825px;
+}
+
+.room-detail-page .room-slideshow {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: -15px;
+}
+
+.room-detail-page .room-slideshow li {
+    margin-right: 0px;
+}
+
+.sys-hotel-booking del {
+    display: block;
+    font-weight: 400;
+    margin: -20px 0 -4px;
+    opacity: 0.6;
+    float: right;
+    margin-top: -16px;
+    margin-left: -37px;
+}
+
+.sys-hotel-booking-order ul {
+    list-style: none !important;
+    padding-bottom: 5px;
+}
+
+.sys-hotel-booking-order ul li {
+    background-color: transparent;
+    padding: 3px 0px;
+    line-height: inherit;
+}
+
+.sys-hotel-booking-order ul li:hover {
+    background-color: transparent;
+}
+
+.sys-hotel-booking-order .tabs-content .btn-org {
+    border-radius: 4px !important;
+    line-height: inherit;
+    padding: 3px 30px;
+    font-size: 18px;
+}
+
+.sys-hotel-booking-order .booking-info-description .hr-hidden {
+    display: none;
+}
+
+.sys-hotel-booking-order .process-title {
+    display: none;
+}
+
+.no-padding-side {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.no-padding-left {
+    padding-left: 0px;
+}
+
+.no-padding-right {
+    padding-right: 0px;
+}
+
+.sys-hotel-booking-order .tab-pane h3.booking-title,
+.sys-hotel-booking-order .tab-pane .room-name h3 {
+    margin-top: 0px;
+}
+
+.sys-hotel-booking-order label {
+    margin: 0 !important;
+}
+
+.sys-hotel-booking-order .payment-info button {
+    font-family: 'THAI';
+    margin-top: 15px;
+}
+
+.sys-hotelbooking .btn-org {
+    padding: 6px 12px;
+    transition: 0.3s;
+}
+
+.sys-hotel-booking-order ul.tabs-navigation .btn-org,
+.sys-hotel-booking-order ul.tabs-navigation .btn-org.active,
+.sys-hotel-booking-order ul.tabs-navigation .btn-org:hover {
+    background-color: transparent;
+    color: inherit;
+}
+
+.sys-hotelbooking .circle-active-tab.btn-org {
+    line-height: inherit;
+}
+
+.sys-hotelbooking .form-group:first-child {
+    margin-top: 0px !important;
+    margin-bottom: 0px;
+}
+
+.sys-hotelbooking .form-group .form-control {
+    height: 39px;
+    line-height: 1.42857;
+    padding: 6px 12px;
+}
+
+.sys-hotelbooking .sys-hotel-booking-reservation-form {
+    border: 1px solid #eee;
+    border-radius: 3px;
+    min-height: 160px;
+    padding: 30px;
+    position: relative;
+}
+
+.sys-hotelbooking .sys-hotel-booking-reservation-form.booking-show-style-3 {
+    border: none;
+    padding: 10px;
+}
+
+@media(max-width:768px) {
+    .sys-hotelbooking .sys-hotel-booking-reservation-form {
+        padding: 10px;
+    }
+}
+
+.sys-hotelbooking .room-detail-page .room-name .widget.sys-social {
+    margin-bottom: 0px;
+    text-align: right;
+}
+
+@media(max-width:768px) {
+    .sys-hotelbooking .room-detail-page .room-name .widget.sys-social {
+        margin-top: 5px;
+        text-align: center;
+    }
+    .sys-hotelbooking .room-detail-page .room-name {
+        text-align: center;
+    }
+}
+
+.sys-hotelbooking div.clr {
+    clear: both;
+}
+
+.sys-hotelbooking img.img-thumbnail {
+    padding: 4px !important;
+}
+
+.sys-hotel-booking-order .summary-payment-border>div>.boxpayment:not(:nth-child(1)) div:nth-child(1),
+.sys-hotel-booking-order .summary-payment-border>div>.boxpayment:not(:nth-child(1)) div:nth-child(2) {
+    border-top: none;
+}
+
+.sys-hotel-booking-order .summary-payment-border>div>.boxpayment div:nth-child(1) {
+    border: 1px solid #999;
+    border-right: none;
+}
+
+.sys-hotel-booking-order .summary-payment-border>div>.boxpayment div:nth-child(2) {
+    border: 1px solid #999;
+}
+
+.sys-hotel-booking-complete text.order_complete_headtext {
+    display: inline-block;
+    border-bottom: 1px solid #999;
+    padding-bottom: 3px;
+}
+
+.sys-hotel-booking-complete div.borderhr {
+    width: 100%;
+    display: inline-block;
+    border-bottom: 1px dashed #999;
+    padding-bottom: 3px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+table.table-borderless td,
+table.table-borderless th {
+    border: none !important;
+}
+
+.sys-products>.container-fluid {
+    padding: 5px 0;
+}
+
+.sys-products>.container-fluid>span {
+    display: inline-block;
+    float: left;
+    margin-right: 5px;
+    line-height: 30px;
+}
+
+.sys-products>.container-fluid #sortProduct {
+    width: 200px;
+    min-width: 50px;
+    height: 30px;
+    line-height: 30px;
+    padding: 0;
+}
+
+div.engine_by_shopup_bottom span.engine_by_shopup_bottom_span {
+    font-size: 14px!important;
+    padding-top: 4px;
+}
+
+div.engine_by_shopup_bottom img {
+    height: 12px;
+}
+
+.engine_by_shopup_bottom .setdisplaynone {
+    display: none !important;
+}
+
+div#shopping-cart-footerbar>div#fixedBox {
+    position: fixed;
+    height: auto;
+    bottom: 0px;
+}
+
+div#shopping-cart-footerbar a.sys-cart.widget {
+    float: right;
+    display: block;
+    margin-left: 10px;
+}
+
+.content.sys-confirm-payment .top {
+    display: block;
+}
+
+.content.sys-member-order-list .top {
+    display: block !important;
+}
+
+.content.sys-contacts .top {
+    display: block !important;
+}
+
+.content.sys-member-detail .top {
+    display: block !important;
+}
+
+.content.sys-payments_detail .top {
+    display: block !important;
+}
+
+.content.sys-order-detail .top {
+    display: block !important;
+}
+
+.container.body .body .lists .lists-item .title h2 {
+    display: block;
+}
+
+div.paypal-group {
+    display: block;
+    width: 40%;
+    position: relative;
+    text-align: center;
+    margin: 0 30%;
+}
+
+.su-main-content-container a.btn-paypal-1 {
+    color: #012c73;
+}
+
+.btn-paypal-1 {
+    display: block;
+    background-color: #ffb300;
+    border-radius: 8px;
+    padding-top: 12px;
+    padding-bottom: 7px;
+    color: #012c73;
+    font-size: 15px;
+    font-weight: 700;
+    box-shadow: 1px 1px 20px 13px rgba(255, 165, 0, 1) inset, 0 0 0px 0px rgba(0, 0, 0, .2) inset;
+}
+
+.btn-paypal-1:hover {
+    background-color: #ffc439;
+}
+
+.img-btn-paypal {
+    height: 20px;
+    position: relative;
+    top: -5px;
+    left: 10px;
+}
+
+
+/* style919 : CART */
+
+.sys-sale-checkout.style919 .body h2 {
+    margin-bottom: 10px;
+}
+
+.sys-sale-checkout.style919 .head-ttitle #front_show_select_currency a {
+    color: #777;
+}
+
+.sys-sale-checkout.style919 .head-ttitle #front_show_select_currency a i {
+    font-family: 'Kanit';
+    line-height: 25px;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.sys-sale-checkout.style919 .head-ttitle .btn {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    line-height: 25px;
+}
+
+.sys-sale-checkout.style919 .head-ttitle .btn .caret {
+    margin-top: -4px;
+}
+
+.sys-sale-checkout.style919 .head-ttitle .addmore-link {
+    line-height: 25px;
+    font-size: 16px;
+    float: right;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.sys-sale-checkout.style919 .head-ttitle .btn,
+.sys-sale-checkout.style919 .head-ttitle .addmore-link {
+    /*background: rgba(8, 152, 216, 0.15);*/
+    border: 1px solid #e3e3e3;
+    border-radius: 25px;
+    padding: 2px 12px;
+    color: #757575;
+}
+
+.sys-sale-checkout.style919 .head-ttitle .btn:hover,
+.sys-sale-checkout.style919 .head-ttitle .addmore-link:hover {
+    /*box-shadow: 0 0px 18px rgba(5, 5, 5, 0.08);*/
+    /*background: rgba(9, 162, 230, 0.81);*/
+    color: #333;
+}
+
+.sys-sale-checkout.style919 .head-ttitle #front_show_select_currency a:hover {
+    color: #fff;
+}
+
+
+/* PRODUCT TABLE */
+
+.sys-sale-checkout.style919 .your-product-table {
+    margin-bottom: 80px;
+}
+
+.sys-sale-checkout.style919 .your-product-table .table-bordered>thead>tr>th,
+.sys-sale-checkout.style919 .your-product-table .table-bordered>thead>tr>td {
+    border-bottom-width: 1px;
+    background: #ececec;
+    font-weight: 500;
+    font-size: 1.1em;
+    color: #555;
+    text-align: center;
+}
+
+.sys-sale-checkout.style919 .your-product-table #coupons_code_input input {
+    line-height: normal;
+}
+
+.sys-sale-checkout.style919 .your-product-table #coupons_code_input input {
+    width: 33%;
+    float: right;
+    margin-left: 7px;
+}
+
+.sys-sale-checkout.style919 .your-product-table .yout-cart-sumary .radio-inline {
+    padding-left: 3px;
+}
+
+.sys-sale-checkout.style919 .your-product-table .yout-cart-sumary .radio-inline input {
+    margin-right: 5px;
+}
+
+.sys-sale-checkout.style919 .your-product-table .yout-cart-sumary h2 {
+    font-size: 1.125em;
+    letter-spacing: 0;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 0;
+}
+
+.sys-sale-checkout.style919 .your-product-table .yout-cart-sumary>tr:last-child {
+    background: rgba(224, 229, 239, 0.63);
+}
+
+
+/* PAYMENT */
+
+.sys-sale-checkout.style919 .payment-box {
+    margin-bottom: 50px;
+}
+
+.sys-sale-checkout.style919 .payment-box h2 {
+    background: #fff;
+    margin-top: -40px;
+    margin-bottom: -30px;
+    display: inline-table;
+    padding: 0;
+}
+
+.sys-sale-checkout.style919 .payment-box .header-title {
+    display: inline-flex;
+}
+
+.sys-sale-checkout.style919 .payment-box .payment-method {
+    width: 100%;
+}
+
+.sys-sale-checkout.style919 .payment-box .payment-method .radio {
+    padding-left: 0;
+    display: inline-grid;
+    position: relative;
+    margin-right: 12px;
+}
+
+.sys-sale-checkout.style919 .payment-box .payment-method .radio label {
+    margin: 0;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    min-height: 60px;
+    border-radius: 6px;
+    background: #fbfaff;
+    border: 2px solid #f0eff4;
+    width: 170px;
+    min-height: 70px;
+    color: #7b7c8f;
+    font-size: 15px;
+}
+
+.sys-sale-checkout.style919 .payment-box .payment-method .radio label input {
+    opacity: 0;
+    position: absolute;
+}
+
+.sys-sale-checkout.style919 .payment-box .payment-method .radio.active label {
+    color: #000;
+    border-color: rgba(167, 178, 192, 0.66);
+    background: rgba(217, 222, 232, 0.79);
+}
+
+.sys-sale-checkout.style919 .payment-box .payment-method .radio.active:after {
+    position: absolute;
+    font-family: 'fontawesome';
+    content: "\f058";
+    top: -10px;
+    right: -10px;
+    font-size: 26px;
+    color: #758087;
+    background: #fff;
+    border-radius: 50%;
+    line-height: normal;
+}
+
+.sys-sale-checkout.style919 .payment-box .content_payment {
+    padding: 0;
+    float: none;
+    display: grid;
+    width: 100%;
+    padding: 0 30px;
+}
+
+.sys-sale-checkout.style919 .payment-box .content_payment .panel-heading {
+    font-size: 1.45em;
+    color: #758087;
+    padding: 5px 0px;
+    display: inline-block;
+    width: 100%;
+}
+
+.sys-sale-checkout.style919 .payment-box .content_payment .table>thead>tr>th {
+    font-weight: normal;
+}
+
+.sys-sale-checkout.style919 .shipment-box .bar-selection {
+    display: inline-block;
+    width: 100%;
+    position: relative;
+}
+
+.sys-sale-checkout.style919 .shipment-box .bar-selection:before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: 0;
+    background: #ebebeb;
+    z-index: -1;
+}
+
+.sys-sale-checkout.style919 .shipment-box .bar-selection .btn-selection {
+    display: inline-block;
+    color: #8a8a8a;
+    font-size: 18px;
+    padding: 6px 15px;
+    border-bottom: 3px solid transparent;
+}
+
+.sys-sale-checkout.style919 .shipment-box .bar-selection .btn-selection span {
+    margin-left: 5px;
+    color: #333;
+    font-size: .9em;
+}
+
+.sys-sale-checkout.style919 .shipment-box .bar-selection .btn-selection.active {
+    color: #3a78c0;
+    border-bottom: 2px solid #3a78c0;
+}
+
+.sys-sale-checkout.style919 .shipment-box .inner {
+    padding: 0 15px;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shwjs-box {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto !important;
+    float: none;
+    margin: 0 auto;
+    padding: 20px 30px;
+    border-radius: 0 8pxÂ 8pxÂ 8px;
+    border: none;
+    text-align: left;
+    background: #fbfbfb;
+}
+
+.sys-sale-checkout.style919 .shipment-box .form-control {
+    border: 1px solid #dfdfdf;
+    border-radius: 4px;
+}
+
+.sys-sale-checkout.style919 .shipment-box .form-group label {
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.sys-sale-checkout.style919 .shipment-box .btn-confirm-order {
+    /*background: #09a2e6;*/
+    /*border-color: #09a2e6;*/
+    font-size: 16px;
+    font-weight: normal;
+    padding: 10px 20px;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .inner-member {
+    width: 400px;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .inner-member .member_login {
+    padding: 0 15px;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box label {
+    margin: 0;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .checkbox {
+    margin-bottom: 20px;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .checkbox label {
+    margin-left: 5px;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .btn-member-signin {
+    margin-left: 15px;
+    min-width: 180px;
+    background: rgba(8, 152, 216, 0.15);
+    border-color: rgba(9, 162, 230, 0.32);
+    color: #fff;
+    background: #09a2e6;
+    background: #dfdfdf;
+    border-color: #d5d5d5;
+    /*box-shadow: inset 2px -2px 3px rgba(51, 51, 51, 0.16);*/
+    color: #5a5a5a;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .btn-member-signin:hover {
+    background: #dfdfdf;
+    color: #949494;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .btn-member-register {
+    background: transparent;
+    border: none;
+    color: #333;
+    border-radius: 0;
+    padding: 0 2px;
+    margin: 0 10px;
+    text-decoration: underline;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .btn-member-register:hover {
+    opacity: .6;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .for-login-fb>label {
+    display: inline-block;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .for-login-fb .btn-social-signin i {
+    margin-right: 7px;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .for-login-fb .btn-social-signin.by-facebook {
+    background: #4267b2;
+    border: 1px solid #3863ab;
+    color: #fff;
+    padding: 2px 9px;
+    border-radius: 2px;
+    margin-left: 2px;
+}
+
+.sys-sale-checkout.style919 .shipment-box .shipment-member-box .for-login-fb .btn-social-signin.by-facebook:hover {
+    background: #3b5b9e;
+}
+
+.sys-sale-checkout.style919 .shipment-box-form {
+    display: none !important;
+    border: none;
+}
+
+.sys-sale-checkout.style919 .shipment-box-form.active {
+    display: block !important;
+}
+
+
+/* .style919 : CART */
+
+
+/*  MEMBER LOGIN STYLE -1  */
+
+.sys-member-login.style_type-1>.body {
+    text-align: center;
+}
+
+.sys-member-login.style_type-1 .htitle {
+    font-size: 40px;
+    font-weight: 800;
+    font-family: sans-serif;
+    margin-bottom: 25px;
+    line-height: normal;
+}
+
+.sys-member-login.style_type-1 .member-wrap {
+    box-shadow: 0 2px 20px rgba(51, 51, 51, 0.14);
+    margin-top: 20px;
+    text-align: left;
+    padding: 40px;
+}
+
+.sys-member-login.style_type-1 .body .form-group {
+    margin-bottom: 25px !important;
+}
+
+.sys-member-login.style_type-1 .form-group>label {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 0;
+    color: #333;
+}
+
+.sys-member-login.style_type-1 .form-group .form-control {
+    border: none;
+    border-bottom: 1px solid #efefef;
+    padding: 0;
+    line-height: normal;
+    font-size: 1.1em;
+    height: 30px;
+}
+
+.sys-member-login.style_type-1 .form-group a:hover {
+    text-decoration: underline !important;
+}
+
+.sys-member-login.style_type-1 .body .btn-member-signin {
+    width: 50%;
+    display: inline-block;
+    margin: 0;
+    font-size: 1.2em;
+    border-top-left-radius: 0;
+}
+
+.sys-member-login.style_type-1 .body .btn-member-register {
+    color: #333;
+    margin-left: 10px;
+    float: right;
+    margin-right: 0;
+}
+
+.sys-member-login.style_type-1 .fb-signin {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.sys-member-login.style_type-1 .form-group.fb-signin {
+    margin-bottom: 0 !important;
+}
+
+.sys-member-login.style_type-1 .fb-signin label {
+    display: inline-block;
+    margin: 0;
+    vertical-align: top;
+    padding-top: 5px;
+    margin-right: 5px;
+}
+
+.sys-member-login.style_type-1 .fb-signin .btn-social-signin.by-facebook span {
+    font-weight: normal;
+}
+
+
+/*  MEMBER LOGIN STYLE -2  */
+
+.sys-member-login.style_type-2 .member-wrap {
+    box-shadow: 0 2px 20px rgba(51, 51, 51, 0.14);
+    margin-top: 20px;
+    text-align: left;
+    padding: 40px;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: 2px solid rgba(4, 164, 248, 0.75);
+}
+
+.sys-member-login.style_type-2 .member-wrap .htitle {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.sys-member-login.style_type-2 .member-wrap .form-control {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 0;
+    height: 32px;
+}
+
+.sys-member-login.style_type-2 .member-wrap .form-control>label {
+    font-size: 1.125em;
+}
+
+.sys-member-login.style_type-2 .member-wrap .form-psw {
+    position: relative;
+}
+
+.sys-member-login.style_type-2 .member-wrap .form-psw a.text-info {
+    position: absolute;
+    right: 0;
+    bottom: -35px;
+}
+
+.sys-member-login.style_type-2 .member-wrap .form-group>label {
+    margin-bottom: 0;
+    margin-top: 25px;
+}
+
+.sys-member-login.style_type-2 .body .checkbox label {
+    color: #777;
+}
+
+.sys-member-login.style_type-2 .body .btn-member-signin {
+    text-align: center;
+    float: none;
+    display: block;
+    margin: 20px auto 50px auto;
+}
+
+.sys-member-login.style_type-2 .body .btn-member-register {
+    display: inline-block;
+    width: auto;
+    margin: 0;
+    margin-top: 6px;
+}
+
+.sys-member-login.style_type-2 .form-group .by-facebook i {
+    font-size: 16px;
+    line-height: 22px;
+    width: auto;
+    margin: 0 6px 0 3px;
+}
+
+.sys-member-login.style_type-2 .form-group .by-facebook span {
+    font-size: 14px;
+    font-weight: normal;
+    padding: 0;
+    line-height: 22px;
+    font-weight: normal;
+}
+
+.sys-member-login.style_type-2 .body .form-group {
+    margin-bottom: 25px;
+}
+
+.sys-member-login.style_type-2 .body .form-group.fb-signin {
+    width: auto;
+    float: right;
+}
+
+.sys-member-login.style_type-2 .body .form-group.fb-signin label {
+    display: inline-block;
+    margin-top: 5px;
+    vertical-align: text-bottom;
+    vertical-align: top;
+    color: #777;
+}
+
+.sys-member-login.style_type-2 .body .btn-member-signin:before {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.125) 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.sys-member-login.style_type-2 .body .btn-member-signin {
+    position: relative;
+    border-color: transparent;
+}
+
+
+/* style-2 : CSS SET COLOR DEPEND ON THEME COLOR */
+
+.sys-member-login.style_type-2 .member-wrap {
+    border-color: #04a4f8;
+}
+
+.sys-member-login.style_type-2 .member-wrap .htitle,
+.sys-member-login.style_type-2 .member-wrap .form-group>label,
+.sys-member-login.style_type-2 .member-wrap .form-psw a.text-info,
+.sys-member-login.style_type-2 .body .btn-member-register {
+    color: #04a4f8;
+}
+
+.sys-member-login.style_type-2 .member-wrap .form-control {
+    border-bottom: 1px solid #04a4f8;
+    line-height: 40px;
+}
+
+.sys-member-login.style_type-2 .body .btn-member-signin {
+    background: #04a4f8;
+}
+
+
+/* .style-2 : CSS SET COLOR DEPEND ON THEME COLOR */
+
+
+/*  MEMBER LOGIN STYLE - 3 */
+
+.sys-member-login.style_type-3 .member-wrap {
+    box-shadow: 0 2px 20px rgba(51, 51, 51, 0.14);
+    margin-top: 20px;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    border-radius: 6px;
+}
+
+.sys-member-login.style_type-3 .member-wrap .htitle {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.sys-member-login.style_type-3 .member-wrap .form-control {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 0 35px;
+    line-height: 40px;
+    height: 40px;
+}
+
+.sys-member-login.style_type-3 .member-wrap .form-group.form-mail>label,
+.sys-member-login.style_type-3 .member-wrap .form-group.form-psw>label>span {
+    display: none;
+}
+
+.sys-member-login.style_type-3 .member-wrap .form-group {
+    position: relative;
+}
+
+.sys-member-login.style_type-3 .member-wrap .form-group.form-mail:before,
+.sys-member-login.style_type-3 .member-wrap .form-group.form-psw:before {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 20px;
+    left: 16px;
+    bottom: 10px;
+    z-index: 2;
+    color: #ccc;
+}
+
+.sys-member-login.style_type-3 .member-wrap .form-group.form-mail:before {
+    font-family: 'fontawesome';
+    content: "\f007";
+}
+
+.sys-member-login.style_type-3 .member-wrap .form-group.form-psw:before {
+    font-family: 'fontawesome';
+    content: "\f084";
+}
+
+.sys-member-login.style_type-3 .member-wrap .form-psw .text-info {
+    position: absolute;
+    bottom: -25px;
+    right: 15px;
+}
+
+.sys-member-login.style_type-3 .body .checkbox {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.sys-member-login.style_type-3 .body .btn-member-signin {
+    display: block;
+    clear: right;
+    margin: 0 auto;
+    float: none;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    border-radius: 6px;
+}
+
+.sys-member-login.style_type-3 .body .reg-link .btn-member-register {
+    color: #333;
+    margin: 0;
+    display: inline-block;
+    float: left;
+}
+
+.sys-member-login.style_type-3 .member-wrap .form-group.fb-signin {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+}
+
+.sys-member-login.style_type-3 .member-wrap .form-group.fb-signin>label {
+    margin: 0;
+    padding: 0;
+    float: left;
+    margin-right: 5px;
+    border-left: 1px solid #ccc;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+
+.sys-member-login.style_type-3 .form-group .btn-social-signin {
+    padding: 2px 10px 2px 6px;
+    margin-top: -2px;
+}
+
+.sys-member-login.style_type-3 .form-group .btn-social-signin i {
+    width: auto;
+    height: auto;
+    line-height: 18px;
+    margin-right: 4px;
+    font-size: 14px;
+}
+
+.sys-member-login.style_type-3 .form-group .btn-social-signin span {
+    font-size: 12px;
+    font-weight: normal;
+    padding-left: 2px;
+    line-height: 16px;
+}
+
+.sys-member-login.style_type-3 .reg-link {
+    display: inline-block;
+    clear: left;
+}
+
+
+/*  MEMBER LOGIN STYLE - 4 */
+
+.sys-member-login.style_type-4 .member-wrap {
+    box-shadow: 0 2px 20px rgba(51, 51, 51, 0.14);
+    margin-top: 20px;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 0;
+    padding-bottom: 0px;
+    border-radius: 20px;
+}
+
+.sys-member-login.style_type-4 .member-wrap .htitle {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-control {
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    padding: 0 35px 0 40px;
+    line-height: 40px;
+    height: 40px;
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-group.form-mail>label,
+.sys-member-login.style_type-4 .member-wrap .form-group.form-psw>label>span {
+    display: none;
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-group {
+    position: relative;
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-group.form-mail:before,
+.sys-member-login.style_type-4 .member-wrap .form-group.form-psw:before {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 20px;
+    left: 16px;
+    bottom: 10px;
+    z-index: 2;
+    color: #ccc;
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-group.form-mail:before {
+    font-family: 'fontawesome';
+    content: "\f007";
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-group.form-psw:before {
+    font-family: 'fontawesome';
+    content: "\f084";
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-psw .text-info {
+    position: absolute;
+    bottom: -25px;
+    right: 15px;
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-psw a.text-info:hover {
+    text-decoration: underline;
+}
+
+.sys-member-login.style_type-4 .body .checkbox {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.sys-member-login.style_type-4 .body .btn-member-signin {
+    display: block;
+    clear: right;
+    margin: 0 auto;
+    float: none;
+    margin-top: 15px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.sys-member-login.style_type-4 .body .reg-link .btn-member-register {
+    color: #333;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-group.fb-signin {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+    width: 100%;
+    border-top: 1px solid #ebebeb;
+    margin-top: 20px;
+    padding-top: 15px;
+    color: #ccc;
+    padding-bottom: 20px;
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-group.fb-signin>label {
+    color: #888;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.sys-member-login.style_type-4 .member-wrap .form-group.fb-signin:before {
+    position: absolute;
+    content: "OR";
+    font-size: 15px;
+    background: #fff;
+    color: #ccc;
+    left: 0;
+    right: 0;
+    top: -10px;
+    width: 60px;
+    margin: 0 auto;
+    z-index: 2;
+}
+
+.sys-member-login.style_type-4 .form-group .btn-social-signin {
+    padding: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 36px;
+    background: transparent;
+    border: 1px solid #ccc;
+}
+
+.sys-member-login.style_type-4 .form-group .btn-social-signin i {
+    width: auto;
+    height: auto;
+    float: none;
+    line-height: 36px;
+    font-size: 16px;
+    color: unset;
+}
+
+.sys-member-login.style_type-4 .form-group .btn-social-signin span {
+    display: none;
+}
+
+.sys-member-login.style_type-4 .form-group .btn-social-signin.by-facebook {
+    color: #4267b2;
+}
+
+.sys-member-login.style_type-4 .form-group .btn-social-signin.by-facebook:hover {
+    background: #4267b2;
+    border-color: #4267b2;
+    color: #fff;
+}
+
+
+/*  MEMBER LOGIN STYLE - 5 */
+
+.sys-member-login.style_type-5 .member-wrap {
+    position: relative;
+    box-shadow: 0 2px 20px rgba(51, 51, 51, 0.14);
+    margin-top: 20px;
+    text-align: center;
+    padding: 40px;
+    padding-top: 65px;
+    padding-bottom: 0px;
+    border-radius: 20px;
+}
+
+.sys-member-login.style_type-5 .member-wrap .htitle {
+    display: none;
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-control {
+    border: none;
+    border-bottom: 1px solid #e3e3e3;
+    padding: 0 0 0 25px;
+    line-height: 40px;
+    height: 40px;
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-group.form-mail>label,
+.sys-member-login.style_type-5 .member-wrap .form-group.form-psw>label>span {
+    display: none;
+}
+
+.sys-member-login.style_type-5 .checkbox {
+    margin-top: 20px;
+}
+
+.sys-member-login.style_type-5 .checkbox label {
+    color: #777;
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-group {
+    position: relative;
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-group.form-mail:before,
+.sys-member-login.style_type-5 .member-wrap .form-group.form-psw:before {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 20px;
+    left: 0;
+    bottom: 10px;
+    z-index: 2;
+    color: #ccc;
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-group.form-mail:before {
+    font-family: 'fontawesome';
+    content: "\f007";
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-group.form-psw:before {
+    font-family: 'fontawesome';
+    content: "\f084";
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-psw .text-info {
+    position: absolute;
+    bottom: -40px;
+    right: 0;
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-psw a.text-info:hover {
+    text-decoration: underline !important;
+}
+
+.sys-member-login.style_type-5 .body .checkbox {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.sys-member-login.style_type-5 .body .btn-member-signin {
+    display: block;
+    width: 100%;
+    clear: right;
+    margin: 20px auto;
+    margin-bottom: 20px;
+    float: none;
+    padding: 10px 30px;
+    /*box-shadow: 0 3px 20px rgba(30, 76, 84, 0.24);*/
+}
+
+.sys-member-login.style_type-5 .body .reg-link .btn-member-register {
+    color: #333;
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    margin: 0;
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-group.fb-signin {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+    width: 100%;
+    color: #ccc
+}
+
+.sys-member-login.style_type-5 .member-wrap .form-group.fb-signin>label {
+    color: #888;
+    margin: 0;
+    margin-bottom: 8px;
+    float: left;
+    font-size: 14px;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+.sys-member-login.style_type-5 .form-group .btn-social-signin {
+    padding: 0;
+    text-align: center;
+    line-height: 36px;
+    background: transparent;
+    float: right;
+}
+
+.sys-member-login.style_type-5 .form-group .btn-social-signin i {
+    width: auto;
+    height: auto;
+    float: none;
+    line-height: 36px;
+    color: unset;
+}
+
+.sys-member-login.style_type-5 .form-group .btn-social-signin span {
+    display: none;
+}
+
+.sys-member-login.style_type-5 .form-group .btn-social-signin.by-facebook {
+    color: #aaa;
+}
+
+.sys-member-login.style_type-5 .form-group .btn-social-signin.by-facebook:hover {
+    color: #4267b2;
+    background: transparent;
+}
+
+
+/* DEPEND ON THEME COLOR */
+
+.sys-member-login.style_type-5 .member-wrap .form-control:focus {
+    border-color: #333;
+}

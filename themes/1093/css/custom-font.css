@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'supermarket';
+    src: url('../../assets/fonts/supermarket/supermarket-webfont.eot');
+    src: url('../../assets/fonts/supermarket/supermarket-webfont.eot?#iefix') format('embedded-opentype'), url('../../assets/fonts/supermarket/supermarket-webfont.woff2') format('woff2'), url('../../assets/fonts/supermarket/supermarket-webfont.woff') format('woff'), url('../../assets/fonts/supermarket/supermarket-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*:not(i):not(.glyphicon) {
+    font-family: 'supermarket' !important;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px !important;
+}
+
+#mainMenu>ul>li>a {
+    font-size: 15px;
+    /*font-weight: 600;*/
+}
+
+ul.main-list a {
+    font-size: 18px;
+}
+
+.widget-tags .tags a {
+    font-size: 12px !important;
+}
+
+.button,
+small,
+p {
+    font-size: 14px !important;
+}
+
+footer .widget {
+    letter-spacing: 0.5px;
+}
+
+
+/*sys-product*/
+
+.custom-product-type-1 .custom-product-info>.custom-product-tag {
+    font-size: 12px !important;
+}
+
+.custom-product-type-1 .custom-product-size>a,
+.custom-product-type-1 .custom-product-size ul li a,
+.custom-product-type-1 .custom-product-color>a,
+.custom-product-type-1 .custom-product-footer .custom-product-cdate,
+.custom-product-type-1 .custom-product-footer .custom-product-viewed,
+.icon-box.small>p {
+    font-size: 14px !important;
+}
+
+.custom-product-type-1 .custom-product-label span.custom-label-default,
+.custom-product-type-1 .custom-product-info>.custom-product-description p,
+.custom-product-type-1 .custom-product-price del,
+.custom-product-type-1 .custom-product-percentdiscount span {
+    font-size: 16px !important;
+}
+
+.custom-product-type-1 .custom-product-price ins {
+    font-size: 18px !important;
+}

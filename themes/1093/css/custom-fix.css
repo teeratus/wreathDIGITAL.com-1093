@@ -1,0 +1,37 @@
+#slider-carousel {
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: opacity 300ms ease-out 0ms;
+    transition: opacity 300ms ease-out 0ms;
+}
+
+#slider-carousel.ready {
+    opacity: 1;
+    visibility: visible;
+}
+
+#slider-carousel .owl-bg-img:not(:first-child) {
+    display: none;
+}
+
+@media(max-width:991px) {
+    .post-content.float-right {
+        padding: 0 15px !important;
+        float: none !important;
+        clear: both;
+    }
+}
+
+.cart-product-detail .form-control {
+    text-align: center;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#slider {
+    z-index: 1;
+}
+
+#mainMenu {
+    position: relative;
+}

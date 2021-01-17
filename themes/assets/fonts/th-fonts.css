@@ -1,0 +1,98 @@
+@font-face {
+    font-family: th-Cheangkhan;
+    src: url(th-fonts/CS-Cheangkhan.ttf);
+}
+
+.th-Cheangkhan {
+    font-family: th-Cheangkhan;
+}
+
+@font-face {
+    font-family: th-DRdeco;
+    src: url(th-fonts/DRdeco.ttf);
+}
+
+.th-DRdeco {
+    font-family: th-DRdeco;
+}
+
+@font-face {
+    font-family: th-DRjoyful;
+    src: url(th-fonts/DRjoyful.ttf);
+}
+
+.th-DRjoyful {
+    font-family: DRjoyful;
+}
+
+@font-face {
+    font-family: th-Kanyanutuni;
+    src: url(th-fonts/Kanyanutuni.ttf);
+}
+
+.th-Kanyanutuni {
+    font-family: Kanyanutuni;
+}
+
+@font-face {
+    font-family: th-KCNightmare;
+    src: url(th-fonts/KCNightmare.ttf);
+}
+
+.th-KCNightmare {
+    font-family: KCNightmare;
+}
+
+@font-face {
+    font-family: th-ktsmarnseree;
+    src: url(th-fonts/kt_smarnseree.ttf);
+}
+
+.th-ktsmarnseree {
+    font-family: th-ktsmarnseree;
+}
+
+@font-face {
+    font-family: th-PoramaRegular;
+    src: url(th-fonts/PoramaRegular.ttf);
+}
+
+.th-PoramaRegular {
+    font-family: th-PoramaRegular;
+}
+
+@font-face {
+    font-family: th-rtemehua;
+    src: url(th-fonts/rtemehua1.35.ttf);
+}
+
+.th-rtemehua {
+    font-family: th-rtemehua;
+}
+
+@font-face {
+    font-family: th-Klinsee;
+    src: url(th-fonts/TS-KlinseeNP.ttf);
+}
+
+.th-Klinsee {
+    font-family: th-Klinsee;
+}
+
+@font-face {
+    font-family: th-Ziemzee;
+    src: url(th-fonts/TZiemzee.ttf);
+}
+
+.th-Ziemzee {
+    font-family: th-Ziemzee;
+}
+
+@font-face {
+    font-family: sukhumvit;
+    src: url(th-fonts/skv-text-webfont.ttf);
+}
+
+.th-sukhumvit {
+    font-family: sukhumvit;
+}

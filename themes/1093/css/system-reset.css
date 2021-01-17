@@ -1,0 +1,320 @@
+.su-side-container .su-element-box {
+    box-shadow: none;
+    border: none;
+}
+
+.su-zone section {
+    padding: 0;
+}
+
+.su-zone .container {
+    width: 100% !important;
+}
+
+.sys-products {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.sys-products h3.su-all-box-title:after {
+    border-top: 4px solid #ffe026;
+    content: "";
+    display: block;
+    margin-top: 14px;
+    width: 120px;
+    left: 10px;
+    position: relative;
+}
+
+.btn {
+    margin: 0;
+}
+
+.btn-org {
+    background-color: #fff;
+    border: 1px solid #ffe026;
+    border-radius: 50px;
+    color: #ffe026;
+    -webkit-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    padding: 8px 14px;
+    line-height: 18px;
+    margin-bottom: 15px;
+}
+
+.btn-org:hover {
+    color: #fff;
+    background-color: #ffe026;
+}
+
+.btn-search {
+    border: 2px solid #c0c0c0;
+}
+
+.slider-range {
+    padding: 0;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+    outline: none;
+}
+
+.custom-product-type-1 .custom-product-info>.custom-product-title h4:before {
+    background-color: #ffe026 !important;
+}
+
+.custom-product-type-1 .custom-product-button-list li a {
+    color: #ffe026 !important;
+}
+
+#tool-side-new>ul>li>a:hover,
+#tool-side-new>ul>li.tool-side-language:hover>a,
+#tool-side-new>ul>li.tool-side-currency:hover>a {
+    background-color: #ffe026 !important;
+}
+
+#side-bar.active:before {
+    background-color: #ffe026 !important;
+}
+
+#breadcrumb {
+    position: relative;
+    top: -60px;
+    margin-bottom: -60px;
+}
+
+@media(max-width:991px) {
+    #breadcrumb {
+        top: -30px;
+        margin-bottom: -30px;
+    }
+}
+
+h2:active {
+    color: initial;
+}
+
+body.sh_subpage .sys-hotelbooking>div#_body>div:first-child {
+    padding: 80px 0;
+}
+
+#front_show_select_currency a i {
+    font-size: 17px;
+    letter-spacing: normal;
+    font-family: 'supermarket' !important;
+    line-height: 36px;
+}
+
+.form-horizontal .control-label {
+    padding: 5px 0;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="url"],
+input[type="number"],
+.form-control {
+    height: 36px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="url"],
+input[type="number"],
+textarea {
+    width: 100%;
+    padding: 1px 10px;
+    font-size: 14px;
+}
+
+.btn {
+    font-size: 14px;
+    box-shadow: none;
+}
+
+.form-control,
+.sys-sale-checkout .address-shipment-box .order_address input {
+    font-size: 14px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.sys-member-register .form-horizontal {
+    padding-top: 40px;
+}
+
+.sys-member-register .form-horizontal .form-group {
+    margin-bottom: 15px !important;
+}
+
+.sys-member-register .form-horizontal .form-group .btn-member-update {
+    margin-top: 10px;
+}
+
+.sys-member-register span.required {
+    color: #ff6868;
+}
+
+.sys-member-login .body {
+    margin-top: 40px;
+}
+
+.sys-member-login .body .form-group {
+    margin-bottom: 15px !important;
+}
+
+.sys-member-login .body .checkbox {
+    padding: 0;
+}
+
+.sys-member-login .body .checkbox input[type=checkbox] {
+    margin-left: 0 !important;
+}
+
+.sys-member-login .body .checkbox label {
+    margin-left: 10px;
+}
+
+.sys-member-login .body .btn-member-signin,
+.sys-member-login .body .btn-member-register,
+.sys-member-login .body .btn-member-register {
+    margin-top: 20px;
+}
+
+.sys-member-login .body .btn-member-register {
+    padding: 0 !important
+}
+
+.sys-member-login .body .btn-member-register:hover {
+    color: #6197ce;
+}
+
+.sys-member-login .body .btn-member-signin {
+    padding: 12px 30px;
+    display: block;
+    clear: both;
+    width: 165px;
+}
+
+.sys-member-login .body .btn-member-signin:hover {
+    color: #fff;
+}
+
+.sys-member-login .body .btn-member-register {
+    background: none;
+    border: none;
+    text-decoration: underline;
+    padding: 0;
+    margin-right: 15px;
+}
+
+.sys-sale-checkout .body h2 {
+    margin-bottom: 10px;
+}
+
+.sys-sale-checkout .body {
+    padding-top: 40px;
+}
+
+.sys-sale-checkout .body .product-wrapper {
+    text-align: left;
+}
+
+.sys-sale-checkout .body .cart-product-detail {
+    background: #fcfcfc;
+}
+
+.sys-sale-checkout .body .cart-product-detail .deleteOrder a:hover {
+    color: #ff6868;
+}
+
+.sys-sale-checkout .body .cart-product-detail:hover {
+    background: #efefef;
+}
+
+.sys-sale-checkout .body #coupons_code_input input {
+    width: 40%;
+    float: right;
+}
+
+.sys-sale-checkout .body .yout-cart-sumary #coupons_code_input {
+    text-align: right;
+    line-height: 43px;
+}
+
+.sys-sale-checkout .body .yout-cart-sumary #text_coupons {
+    line-height: 43px;
+}
+
+.sys-sale-checkout .body .yout-cart-sumary .grand-total,
+.sys-sale-checkout .body .yout-cart-sumary .grand-total-price {
+    background: #e9e9e9;
+}
+
+.sys-sale-checkout .body .yout-cart-sumary .grand-total h3,
+.sys-sale-checkout .body .yout-cart-sumary .grand-total-price h3 {
+    margin: 0;
+    line-height: 43px;
+}
+
+.sys-sale-checkout .body .yout-cart-sumary .all-discount,
+.sys-sale-checkout .body .yout-cart-sumary .total-price,
+.sys-sale-checkout .body .yout-cart-sumary .grand-total {
+    text-align: right;
+}
+
+.sys-sale-checkout .payment-method {
+    margin-top: 40px;
+}
+
+.sys-sale-checkout .address-shipment-box h2 {
+    margin: 0;
+}
+
+.sys-sale-checkout .address-shipment-box .member-login-box {
+    padding-left: 35px;
+}
+
+.sys-sale-checkout .address-shipment-box .member-login-box .member_login .checkbox {
+    padding-left: 0;
+}
+
+.sys-sale-checkout .address-shipment-box .order_address span.required {
+    color: #ff6868;
+}
+
+.sys-sale-checkout .address-shipment-box .member-login-box .btn-member-signin {
+    color: #fff;
+    background-color: #8dc63f;
+    border-color: #8dc63f;
+}
+
+.sys-sale-checkout .address-shipment-box .member-login-box .btn-member-signin:hover {
+    color: #fff;
+    background-color: #85ce23;
+    border-color: #85ce23;
+}
+
+.sys-sale-checkout .body .address-detail-box .confirm-order-button {
+    margin-top: 30px;
+}
+
+.radio input[type=radio],
+.radio-inline input[type=radio],
+.checkbox input[type=checkbox],
+.checkbox-inline input[type=checkbox] {
+    margin-left: 0;
+}
+
+.sys-sale-checkout .body .address-shipment-box .member-login-box .member_login .checkbox label {
+    margin-left: 10px;
+}
+
+select.form-control {
+    padding-top: 0;
+    padding-bottom: 0;
+}
